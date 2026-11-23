@@ -77,3 +77,7 @@ Without `--save`, the newest `character*.ksd` in your Steam `userdata\...\120362
 - Anything a chest has ever handed you counts as discovered to the game.
 - The save format is undocumented and may change with game updates.
 - Not affiliated with Keen Games or the Endless Chests author. Back up your saves.
+
+## License
+
+MIT. See [LICENSE](LICENSE). This covers the code in this repo only, not the Endless Chests mod or Enshrouded.
