@@ -1,0 +1,4 @@
+__pycache__/
+*.ksd
+last-launch.txt
+*.ini
